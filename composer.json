@@ -1,0 +1,11 @@
+{
+    "name": "gild-lib/hosting-required",
+    "description": "A library that provides file templates that depend on the hosting service.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "MasayaGoto",
+            "email": "masaya.goto@gild.co.jp"
+        }
+    ]
+}
