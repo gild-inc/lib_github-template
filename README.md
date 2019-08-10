@@ -21,7 +21,7 @@ githubなどのホスティングサービスでISSUEやPRなどの利用可能�
     },
     "scripts": {
         "post-autoload-dump": [
-            "cp vendor/gild-lib/hosting-required/repository/.github/* .github/"
+            ". vendor/gild-lib/hosting-required/execution.sh"
         ]
     }
 }
