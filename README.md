@@ -10,10 +10,12 @@ githubなどのホスティングサービスでISSUEやPRなどの利用可能�
 * composer.json
 ```json
 {
-    "repositories":[{
-        "type": "vcs",
-        "url": "git@github.gild-inc:gild-inc/lib-hosting-required.git"
-    }],
+    "repositories":[
+        {
+            "type": "vcs",
+            "url": "git@github.gild-inc:gild-inc/lib-hosting-required.git"
+        }
+    ],
     "require-dev": {
         "gild-lib/hosting-required": "*"
     },
