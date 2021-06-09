@@ -1,7 +1,7 @@
 ## 概要
 
-githubなどのホスティングサービスでISSUEやPRなどの利用可能なファイルテンプレートを提供します。  
-全てのリポジトリでフォーマットを統一する為にこの手法は煩わしくありません。
+githubのISSUEやPRのテンプレートを提供します。  
+全てのリポジトリでテンプレートのフォーマットを統一する為に、この手法はベストです。
 
 ## 設定方法
 
@@ -21,7 +21,7 @@ githubなどのホスティングサービスでISSUEやPRなどの利用可能�
     },
     "scripts": {
         "post-autoload-dump": [
-            ". vendor/gild-lib/hosting-required/execution.sh"
+            ". vendor/gild-lib/github-template/execution.sh"
         ]
     }
 }

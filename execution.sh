@@ -1,4 +1,4 @@
 #!bin/bash
 
 mkdir -p .github
-cp vendor/gild-lib/hosting-required/repository/.github/* .github/
+cp vendor/gild-lib/github-template/repository/.github/* .github/

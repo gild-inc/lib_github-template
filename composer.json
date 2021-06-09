@@ -1,6 +1,6 @@
 {
-    "name": "gild-lib/hosting-required",
-    "description": "A library that provides file templates that depend on the hosting service.",
+    "name": "gild-lib/github-template",
+    "description": "A library that provides github issues and PR templates.",
     "type": "library",
     "authors": [
         {
