@@ -13,11 +13,11 @@ githubのISSUEやPRのテンプレートを提供します。
     "repositories":[
         {
             "type": "vcs",
-            "url": "git@github.gild-inc:gild-inc/lib-hosting-required.git"
+            "url": "git@gild.github.com:gild-inc/lib_github-template.git"
         }
     ],
     "require-dev": {
-        "gild-lib/hosting-required": "*"
+        "gild-lib/github-template": "*"
     },
     "scripts": {
         "post-autoload-dump": [
