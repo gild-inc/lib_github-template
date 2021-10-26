@@ -2,6 +2,7 @@
     "name": "gild-lib/github-template",
     "description": "A library that provides github issues and PR templates.",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "MasayaGoto",

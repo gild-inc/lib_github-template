@@ -10,14 +10,8 @@ githubのISSUEやPRのテンプレートを提供します。
 * composer.json
 ```json
 {
-    "repositories":[
-        {
-            "type": "vcs",
-            "url": "git@gild.github.com:gild-inc/lib_github-template.git"
-        }
-    ],
     "require-dev": {
-        "gild-lib/github-template": "*"
+        "gild-lib/github-template": "^1.0"
     },
     "scripts": {
         "post-autoload-dump": [
