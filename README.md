@@ -11,7 +11,7 @@ githubのISSUEやPRのテンプレートを提供します。
 ```json
 {
     "require-dev": {
-        "gild-lib/github-template": "^1.0"
+        "gild/github-template": "^1.0"
     },
     "scripts": {
         "post-autoload-dump": [
