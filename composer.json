@@ -1,12 +1,24 @@
 {
-    "name": "gild-lib/github-template",
+    "name": "gild/github-template",
     "description": "A library that provides github issues and PR templates.",
+    "keywords": [
+        "github",
+        "template",
+        "pr",
+        "issue",
+        "management"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "MasayaGoto",
-            "email": "masaya.goto@gild.co.jp"
+            "email": "masaya.goto@gild.co.jp",
+            "role": "CEO",
+            "homepage": "https://gild.co.jp/",
         }
-    ]
+    ],
+    "support": {
+        "email": "service@gild.co.jp"
+    }
 }

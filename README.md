@@ -15,7 +15,7 @@ githubのISSUEやPRのテンプレートを提供します。
     },
     "scripts": {
         "post-autoload-dump": [
-            ". vendor/gild-lib/github-template/execution.sh"
+            ". vendor/gild/github-template/execution.sh"
         ]
     }
 }
