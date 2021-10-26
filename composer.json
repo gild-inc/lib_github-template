@@ -1,6 +1,6 @@
 {
     "name": "gild/github-template",
-    "description": "A library that provides github issues and PR templates.",
+    "description": "A library that provides github issues and PR templates",
     "keywords": [
         "github",
         "template",
