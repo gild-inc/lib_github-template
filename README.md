@@ -5,7 +5,7 @@ githubのISSUEやPRのテンプレートを提供します。
 
 ## 設定方法
 
-リポジトリルートの`composer.json`に以下を追記します。
+リポジトリルートの`composer.json`に以下追記します。
 
 * composer.json
 ```json
@@ -18,4 +18,7 @@ githubのISSUEやPRのテンプレートを提供します。
 }
 ```
 
+```shell
 composer require --dev gild/github-template ^1.0
+```
+
